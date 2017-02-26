@@ -1,3 +1,8 @@
+body {
+    background-color: #F5F5F9;
+}
+
+
 p {
 	color: #7F6D6F;
 	font-size: 14px;
@@ -5,6 +10,7 @@ p {
 	text-align: center;
 	margin-left: 100px;
 	margin-right: 100px;
+
 }
 
 h1{
